@@ -51,12 +51,12 @@ Ele irá capacitar os profissionais do setor logístico com ferramentas adequada
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 06/09/2024| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00 | 26/09/2024|em progresso| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01|  17/10/2024| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 07/11/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 28/11/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|12/12/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 06/09/2024| Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|00 | 26/09/2024|Em progresso| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01|  17/10/2024| A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 07/11/2024 | A fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 28/11/2024 |A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|Feira de Soluções|12/12/2024 |A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 #### Cronograma das Sprints[(clique aqui)](https://2023co.atlassian.net/jira/software/projects/SCRUM/boards/2)
 
@@ -81,8 +81,8 @@ Requisitos não funcionais
 - Miro
   
 
-# Burndown
-![sprint backlog](https://github.com/ComexSmart/ComexSmart/blob/main/imagem/Burn.png?raw=true)
+# BackLog
+![Sprint Backlog]([[https://github.com/ComexSmart/ComexSmart/blob/main/imagem/Burn.png?raw=true](https://www.canva.com/design/DAGP_flTcn4/7J-qDjDlFnu-qduys5bVMw/edit?utm_content=DAGP_flTcn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAGP_flTcn4/7J-qDjDlFnu-qduys5bVMw/edit?utm_content=DAGP_flTcn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 
 ## Sprint 0. Concepção
