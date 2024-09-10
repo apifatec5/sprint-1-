@@ -2,7 +2,7 @@
 
 # API: Aprendizado por Projeto Integrador
 
-A aprendizagem por projeto integrador é um método de ensino no qual visa sistematizar os conhecimentos e habilidades adquiridos pelos estudantes durante o desenvolvimento do curso, trabalhar em equipe os projetos práticos que abrangem diversas áreas de aprendizagem. Esses projetos geralmente são interdisciplinares e podem envolver a aplicação de conhecimentos de diversas disciplinas para resolver problemas do mundo real.
+A aprendizagem por projeto integrador é uma abordagem pedagógica que visa a aplicação prática e a integração de conhecimentos adquiridos ao longo de um curso. Esse método envolve a realização de projetos interdisciplinares que conectam diferentes áreas de estudo e resolvem problemas reais ou simulados. Os alunos trabalham em equipe, desenvolvendo competências colaborativas e práticas, e recebem feedback contínuo para aprimorar suas habilidades e conhecimentos. Essa abordagem promove uma visão holística do aprendizado, preparando os estudantes para desafios do mundo real.
 
 # Índice
 
