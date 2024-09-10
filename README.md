@@ -2,7 +2,7 @@
 
 # API: Aprendizado por Projeto Integrador
 
-A aprendizagem por projeto integrador é uma abordagem pedagógica que visa a aplicação prática e a integração de conhecimentos adquiridos ao longo de um curso. Esse método envolve a realização de projetos interdisciplinares que conectam diferentes áreas de estudo e resolvem problemas reais ou simulados. Os alunos trabalham em equipe, desenvolvendo competências colaborativas e práticas, e recebem feedback contínuo para aprimorar suas habilidades e conhecimentos. Essa abordagem promove uma visão holística do aprendizado, preparando os estudantes para desafios do mundo real.
+A aprendizagem por projeto integrador é um método de ensino no qual visa sistematizar os conhecimentos e habilidades adquiridos pelos estudantes durante o desenvolvimento do curso, trabalhar em equipe os projetos práticos que abrangem diversas áreas de aprendizagem. Esses projetos geralmente são interdisciplinares e podem envolver a aplicação de conhecimentos de diversas disciplinas para resolver problemas do mundo real.
 
 # Índice
 
@@ -20,14 +20,16 @@ A aprendizagem por projeto integrador é uma abordagem pedagógica que visa a ap
 
 # Projeto
 # Objetivo
-Constituir no Power BI um dashboard eficaz, com base em dados de importações e exportações, permitindo que o usuário visualize cargas com potencial para movimentação no aeroporto de São José dos Campos (SJK Airport) 
+Desenvolver um dashboard eficaz no Power BI, baseado em dados de importações e exportações, com a finalidade de permitir ao usuário a visualização de cargas com potencial de movimentação no Aeroporto de São José dos Campos (SJK Airport). A criação desse dashboard deverá proporcionar insights claros e detalhados sobre as oportunidades de movimentação de carga, facilitando a análise e a tomada de decisões estratégicas para otimizar o uso do aeroporto.
 
-# Justificativa do projeto
-Ao criar relacionamentos entre diferentes conjuntos de dados , é possível fornecer uma visão abrangente e detalhada do panorama logístico do país. Isso permitirá aos usuários explorar e compreender melhor as dinâmicas dos modais de transporte, identificar tendências e tomar decisões com base nas informações apresentadas.
+
+# Porque fazer o projeto?
+Ao estabelecer relacionamentos entre diferentes conjuntos de dados, é possível obter uma visão ampla e detalhada do panorama logístico no Vale. Essa integração de informações permite que os usuários analisem e compreendam de forma mais profunda as dinâmicas do modal aéreo, facilitando a identificação de padrões e a tomada de decisões informadas para otimizar a eficiência logística. A partir dele também, será possível adquirir tópicos como a otimização da infraestrutura, a competitividade regional, a eficiência operacional e desenvolvimento econômico.
 
 # Resultado esperado
-O dashboard resultante não apenas fornecerá uma visão geral dos modais mais utilizados, mas também permitirá uma análise aprofundada como, custos, análise mensal dos resultados das movimentações de cargas e volumes de carga. Além disso, a representação geográfica das cargas permitirá visualizar de forma intuitiva as rotas e os hubs logísticos mais críticos no Brasil.
-Sendo assim, o projeto visa capacitar profissionais do setor de logística com as ferramentas necessárias para otimizar operações, reduzir custos e tomar decisões estratégicas fundamentadas em dados confiáveis. O Power BI servirá como uma plataforma poderosa para transformar dados em insights valiosos, permitindo que as partes interessadas naveguem no complexo panorama da logística brasileira de maneira eficaz e eficiente.
+O dashboard desenvolvido fornecerá uma visão abrangente sobre o modal aéreo de cargas com alto valor agregado. Ele possibilitará uma análise detalhada dos custos, além de uma avaliação mensal dos resultados referentes às movimentações e volumes de carga. A representação geográfica das cargas facilitará a visualização intuitiva das rotas e dos hubs logísticos mais críticos no Brasil.
+Ele irá capacitar os profissionais do setor logístico com ferramentas adequadas para otimizar as operações, reduzir os custos e tomar decisões estratégicas baseadas em dados confiáveis. Utilizando o Power BI, que atuará como uma plataforma analítica, o projeto transformará dados em insights valiosos. Isso permitirá que as partes interessadas naveguem de maneira eficaz e eficiente pelo complexo panorama logístico da RM Vale e do Litoral Norte.
+
 
 
 
@@ -85,11 +87,11 @@ Requisitos não funcionais
 
 ## Sprint 0. Concepção
 - [x] Backlog do produto;
-- [x] GitHub estruturado com link disponibilizado;
+- [x] GitHub estruturado atualizado;
 - [x] Jira Software estruturado;
 - [x] Atribuição das atividades para a Sprint 1.
 
-## Sprint 1. Desenvolvimento do Projeto
+## Sprint 1. Desenvolvimento do Projeto 
 - [x] Fazer o relacionamento dos dados no Power BI;
 - [x] Pesquisa de apoio para contextualizar o projeto;
 - [x] Atualizar o Git Hub de acordo com o feedback do cliente;
