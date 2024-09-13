@@ -81,9 +81,11 @@ Requisitos
 
 
 ## Sprint 0. Concepção
-- [x] Backlog do produto;
+- [x] E-mail do grupo;
 - [x] GitHub estruturado atualizado;
+- [x] Backlog do produto;
 - [x] Jira Software estruturado;
+- [x] Excel organizado e filtrado;
 - [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 1. Desenvolvimento do Projeto 
