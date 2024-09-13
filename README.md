@@ -66,23 +66,18 @@ Sprint | Previsão | Status| Histórico|
 
 </div>
 
-Regras de Negócio
-- 
+# Regras de Negócio
 
-Requisitos funcionais 
+Requisitos  
 - Dashboard   
-
-  
-Requisitos não funcionais
 - Power BI
 - Jira software
-- 5W2H
 - GitHub
-- Miro
+
   
 
 # BackLog
-![Sprint Backlog]([[https://github.com/ComexSmart/ComexSmart/blob/main/imagem/Burn.png?raw=true](https://www.canva.com/design/DAGP_flTcn4/7J-qDjDlFnu-qduys5bVMw/edit?utm_content=DAGP_flTcn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAGP_flTcn4/7J-qDjDlFnu-qduys5bVMw/edit?utm_content=DAGP_flTcn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![Sprint Backlog] (https://www.canva.com/design/DAGP_flTcn4/7J-qDjDlFnu-qduys5bVMw/edit?utm_content=DAGP_flTcn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAGP_flTcn4/7J-qDjDlFnu-qduys5bVMw/edit?utm_content=DAGP_flTcn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Sprint 0. Concepção
@@ -92,13 +87,8 @@ Requisitos não funcionais
 - [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 1. Desenvolvimento do Projeto 
-- [x] Fazer o relacionamento dos dados no Power BI;
-- [x] Pesquisa de apoio para contextualizar o projeto;
-- [x] Atualizar o Git Hub de acordo com o feedback do cliente;
-- [x] Fazer relatório técnico da sprint 1;
-- [x] Projetar dash teste (dados gerais);
-- [x] Gerenciar o 5W2H;
-- [x] Workshop de Power BI para nivelamento da equipe com a ferramenta.
+
+
 
 ## Resultado
 
@@ -106,18 +96,14 @@ Requisitos não funcionais
 
       
 ## Sprint 2 . Implementação
-- [x] Pesquisar conceito da geografia dos Fluxos;
-- [x] Dash teste tela de SP;
-- [x] Pesquisar dados de longitudade e latitude das cidades que compõem o Estado de SP;
-- [x] Fazer relatório técnico da sprint 2;
-- [x] Gerenciar o 5W2H;
-- [x] Dashboard de probabilidades.
+
+
+
       
 ## Sprint 3. Operacionalização
-- [ ] Terminar as 5 telas requisitadas;
-- [ ] Apresentar os dados do desempenho de SJC e carga específica;
-- [ ] Fazer relatório técnico da sprint 3;
-- [ ] Gerenciar o 5W2H;
+
+
+
 
 # Competências desenvolvidas
 
@@ -130,9 +116,7 @@ Requisitos não funcionais
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Miro| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| 5W2H| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| SWOT | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
  
 </details>
 
