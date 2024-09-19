@@ -107,31 +107,4 @@ Requisitos
 
 
 
-# Competências desenvolvidas
 
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
- 
-</details>
-
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Adaptabilidade | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Colaboração| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Comunicação| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Autonomia| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-</details>
