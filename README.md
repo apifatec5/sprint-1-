@@ -50,7 +50,7 @@ Ele irá capacitar os profissionais do setor logístico com ferramentas adequada
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 06/09/2024| Concluído| [Ver Relatório](file:///C:/Users/anafl/OneDrive/%C3%81rea%20de%20Trabalho/FATEC/1%C2%BA%20Semestre/API/Relat%C3%B3rio%20Kick-off.pdf) | 
+|Kick Off | 06/09/2024| Concluído| [Ver Relatório](https://docs.google.com/document/d/1MbDn3hh0tmLkgkiSM4OKj4v3qFxmOtv6/edit#heading=h.gjdgxs) | 
 |00 | 26/09/2024|Em progresso| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01|  17/10/2024| A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 07/11/2024 | A fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
