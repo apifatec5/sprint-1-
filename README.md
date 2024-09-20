@@ -7,13 +7,13 @@ A aprendizagem por projeto integrador é um método de ensino no qual visa siste
 # Índice
 
 * [Projeto](#Projeto)
-* [Por que fazer o projeto?](#Por-que-fazer-o-projeto?)
+* [Por que fazer o projeto](#Por-que-fazer-o-projeto)
 * [Resultado esperado](#Resultado-esperado) 
 * [Equipe](#equipe)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Regras de Negócio](#Regras-de-Negócio)
 * [Backlog do produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
+* [Sprint 0. Concepção](#Sprint-0.-Concepção)
 * [Autores](#autores)
 
 # Projeto
