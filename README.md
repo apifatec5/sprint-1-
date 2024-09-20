@@ -14,8 +14,11 @@ A aprendizagem por projeto integrador é um método de ensino no qual visa siste
 * [Regras de Negócio](#Regras-de-Negócio)
 * [Backlog do produto](#Backlog-do-produto)
 * [Sprint 0 Concepção](#Sprint-0-Concepção)
-* [Autores](#autores)
+* [Sprint 1 Desenvolvimento do Projeto](#Sprint-1-Desenvolvimento-do-Projeto)
+* [Sprint 2 Implementação](#Sprint-2-Implementação)
+* [Sprint 3 Operacionalização](#Sprint-3-Operacionalização)
 
+  
 # Projeto
 # Objetivo
 Desenvolver um dashboard eficaz no Power BI, baseado em dados de importações e exportações, com a finalidade de permitir ao usuário a visualização de cargas com potencial de movimentação no Aeroporto de São José dos Campos (SJK Airport). A criação desse dashboard deverá proporcionar insights claros e detalhados sobre as oportunidades de movimentação de carga, facilitando a análise e a tomada de decisões estratégicas para otimizar o uso do aeroporto.
@@ -84,7 +87,7 @@ Requisitos
 - [x] Excel organizado e filtrado;
 - [x] Atribuição das atividades para a Sprint 1.
 
-## Sprint 1. Desenvolvimento do Projeto 
+## Sprint 1 Desenvolvimento do Projeto 
 
 
 
@@ -93,12 +96,12 @@ Requisitos
 <img width=100% src="https://user-images.githubusercontent.com/142995260/283203023-721d1212-9feb-4766-b3e5-ef7d3f43cc01.mp4">
 
       
-## Sprint 2 . Implementação
+## Sprint 2 Implementação
 
 
 
       
-## Sprint 3. Operacionalização
+## Sprint 3 Operacionalização
 
 
 
