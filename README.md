@@ -45,7 +45,6 @@ Ele irá capacitar os profissionais do setor logístico com ferramentas adequada
 
 # Cronograma das Sprints
 
-## Cronograma
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
