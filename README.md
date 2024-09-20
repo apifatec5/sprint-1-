@@ -7,13 +7,13 @@ A aprendizagem por projeto integrador é um método de ensino no qual visa siste
 # Índice
 
 * [Projeto](#Projeto)
-* [Por que fazer o projeto](#Por-que-fazer-o-projeto)
+* [Por que fazer o projeto?](#Por-que-fazer-o-projeto?)
 * [Resultado esperado](#Resultado-esperado) 
 * [Equipe](#equipe)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Regras de Negócio](#Regras-de-Negócio)
 * [Backlog do produto](#Backlog-do-produto)
-* [Sprint 0. Concepção](#Sprint-0.-Concepção)
+* [Sprint 0 Concepção](#Sprint-0-Concepção)
 * [Autores](#autores)
 
 # Projeto
@@ -21,7 +21,7 @@ A aprendizagem por projeto integrador é um método de ensino no qual visa siste
 Desenvolver um dashboard eficaz no Power BI, baseado em dados de importações e exportações, com a finalidade de permitir ao usuário a visualização de cargas com potencial de movimentação no Aeroporto de São José dos Campos (SJK Airport). A criação desse dashboard deverá proporcionar insights claros e detalhados sobre as oportunidades de movimentação de carga, facilitando a análise e a tomada de decisões estratégicas para otimizar o uso do aeroporto.
 
 
-# Porque fazer o projeto
+# Porque fazer o projeto?
 Ao estabelecer relacionamentos entre diferentes conjuntos de dados, é possível obter uma visão ampla e detalhada do panorama logístico no Vale. Essa integração de informações permite que os usuários analisem e compreendam de forma mais profunda as dinâmicas do modal aéreo, facilitando a identificação de padrões e a tomada de decisões informadas para otimizar a eficiência logística. A partir dele também, será possível adquirir tópicos como a otimização da infraestrutura, a competitividade regional, a eficiência operacional e desenvolvimento econômico.
 
 # Resultado esperado
@@ -76,7 +76,7 @@ Requisitos
  [Sprint Backlog](https://www.canva.com/design/DAGP_flTcn4/7J-qDjDlFnu-qduys5bVMw/edit?utm_content=DAGP_flTcn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 
-## Sprint 0. Concepção
+## Sprint 0 Concepção
 - [x] E-mail do grupo;
 - [x] GitHub estruturado atualizado;
 - [x] Backlog do produto;
