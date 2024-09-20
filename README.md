@@ -53,10 +53,10 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2024| Concluído| [Ver Relatório](https://www.canva.com/design/DAGRTqNYQBk/rN3kcNC2W-3vT0Ldf3mV4A/edit?utm_content=DAGRTqNYQBk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
 |00 | 26/09/2024|Em progresso| [Ver Relatório](https://www.canva.com/design/DAGRTo-AZMQ/UFMK4Cg80VVrvz1eDNBQFQ/edit?utm_content=DAGRTo-AZMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-|01|  17/10/2024| A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 07/11/2024 | A fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 28/11/2024 |A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|12/12/2024 |A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01|  17/10/2024| A fazer |[Ver Relatório]() | 
+|02| 07/11/2024 | A fazer|[Ver Relatório]() | 
+|03| 28/11/2024 |A fazer |[Ver Relatório]()  | 
+|Feira de Soluções|12/12/2024 |A fazer |[Ver Relatório]() | 
 
 
   
