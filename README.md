@@ -83,11 +83,12 @@ Requisitos
 - [x] GitHub estruturado atualizado com o link disponibilizado;
 - [x] Backlog do produto;
 - [x] Jira Software estruturado;
+- [ ] Baixar planilhas no COMEXSTAT e inicar análises; 
 - [x] Fazer relatório da Sprint 0;
 - [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 1 Desenvolvimento do Projeto 
-- [x] Excel organizado e filtrado;
+- [x] Planilhas no Excel organizado e filtrado;
 - [ ] Pesquisa de apoio para fundamentar o projeto;
 - [ ] Atualizar o GitHub de acordo com o feedback do cliente;
 - [ ] Relatório da Sprint 1;
