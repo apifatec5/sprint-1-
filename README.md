@@ -52,7 +52,7 @@ Ele irá capacitar os profissionais do setor logístico com ferramentas adequada
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2024| Concluído| [Ver Relatório](https://www.canva.com/design/DAGRTqNYQBk/rN3kcNC2W-3vT0Ldf3mV4A/edit?utm_content=DAGRTqNYQBk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
-|00 | 26/09/2024|Em progresso| [Ver Relatório](https://www.canva.com/design/DAGRTo-AZMQ/UFMK4Cg80VVrvz1eDNBQFQ/edit?utm_content=DAGRTo-AZMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+|00 | 26/09/2024|Concluído| [Ver Relatório](https://www.canva.com/design/DAGRTo-AZMQ/UFMK4Cg80VVrvz1eDNBQFQ/edit?utm_content=DAGRTo-AZMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 |01|  17/10/2024| A fazer |[Ver Relatório]() | 
 |02| 07/11/2024 | A fazer|[Ver Relatório]() | 
 |03| 28/11/2024 |A fazer |[Ver Relatório]()  | 
@@ -80,26 +80,29 @@ Requisitos
 
 
 ## Sprint 0 Concepção
-- [x] E-mail do grupo;
-- [x] GitHub estruturado atualizado;
+- [x] GitHub estruturado atualizado com o link disponibilizado;
 - [x] Backlog do produto;
 - [x] Jira Software estruturado;
-- [x] Excel organizado e filtrado;
+- [x] Fazer relatório da Sprint 0;
 - [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 1 Desenvolvimento do Projeto 
+- [x] Excel organizado e filtrado;
+- [ ] Pesquisa de apoio para fundamentar o projeto;
+- [ ] Atualizar o GitHub de acordo com o feedback do cliente;
+- [ ] Relatório da Sprint 1;
+- [ ] Implementar dados da planilha de ESTADO na base do COMEXSTAT;
+- [ ] Inserir dados para vizualização no Power BI;
 
-
-
-      
 ## Sprint 2 Implementação
+- [ ] Fazer relatório da Sprint 2;
+- [ ] Dashboard vizualizado no Power BI com as probabilidades;
+- [ ] GitHub atualizado de acordo com o feedback do cliente;
 
-
-
-      
 ## Sprint 3 Operacionalização
-
-
-
+- [ ] Finalizar as telas requisitadas no Power BI;
+- [ ] Apresentar os dados do desempenho de SJK e cargas específicas;
+- [ ] Fazer relatório da Sprint 3;
+- [ ] GitHub finalizado coma descrição completa do produto.
 
 
