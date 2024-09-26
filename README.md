@@ -53,7 +53,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2024| Concluído| [Ver Relatório](https://www.canva.com/design/DAGRTqNYQBk/rN3kcNC2W-3vT0Ldf3mV4A/edit?utm_content=DAGRTqNYQBk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
 |00 | 26/09/2024|Concluído| [Ver Relatório](https://www.canva.com/design/DAGRTo-AZMQ/UFMK4Cg80VVrvz1eDNBQFQ/edit?utm_content=DAGRTo-AZMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-|01|  17/10/2024| A fazer |[Ver Relatório]() | 
+|01|  17/10/2024| Em Processo |[Ver Relatório]() | 
 |02| 07/11/2024 | A fazer|[Ver Relatório]() | 
 |03| 28/11/2024 |A fazer |[Ver Relatório]()  | 
 |Feira de Soluções|12/12/2024 |A fazer |[Ver Relatório]() | 
@@ -83,14 +83,14 @@ Requisitos
 - [x] GitHub estruturado atualizado com o link disponibilizado;
 - [x] Backlog do produto;
 - [x] Jira Software estruturado;
-- [ ] Baixar planilhas no COMEXSTAT e inicar análises; 
+- [x] Baixar planilhas no COMEXSTAT e inicar análises; 
 - [x] Fazer relatório da Sprint 0;
 - [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 1 Desenvolvimento do Projeto 
 - [x] Planilhas no Excel organizado e filtrado;
 - [ ] Pesquisa de apoio para fundamentar o projeto;
-- [ ] Atualizar o GitHub de acordo com o feedback do cliente;
+- [x] Atualizar o GitHub de acordo com o feedback do cliente;
 - [ ] Relatório da Sprint 1;
 - [ ] Implementar dados da planilha de ESTADO na base do COMEXSTAT;
 - [ ] Inserir dados para vizualização no Power BI;
