@@ -97,6 +97,7 @@ Requisitos
 
 ## Sprint 2 Implementação
 - [ ] Fazer relatório da Sprint 2;
+- [ ] Análise dos mais adequedos indicadores para demonstrar ao cliente no Dashboard;
 - [ ] Dashboard vizualizado no Power BI com as probabilidades;
 - [ ] GitHub atualizado de acordo com o feedback do cliente;
 
@@ -104,6 +105,6 @@ Requisitos
 - [ ] Finalizar as telas requisitadas no Power BI;
 - [ ] Apresentar os dados do desempenho de SJK e cargas específicas;
 - [ ] Fazer relatório da Sprint 3;
-- [ ] GitHub finalizado coma descrição completa do produto.
+- [ ] GitHub finalizado com a descrição completa do produto.
 
 
