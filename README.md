@@ -88,12 +88,11 @@ Requisitos
 - [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 1 Desenvolvimento do Projeto 
-- [x] Planilhas no Excel organizado e filtrado;
 - [ ] Pesquisa de apoio para fundamentar o projeto;
-- [x] Atualizar o GitHub de acordo com o feedback do cliente;
+- [ ] Atualizar o GitHub de acordo com o feedback do cliente;
 - [ ] Relatório da Sprint 1;
-- [ ] Implementar dados da planilha de ESTADO na base do COMEXSTAT;
-- [ ] Inserir dados para vizualização no Power BI;
+- [ ] Apresentar dados da planilhas que o grupo está unficando, com base do COMEXSTAT;
+- [ ] Justificar as principais cargas de alto valor agregado;
 
 ## Sprint 2 Implementação
 - [ ] Fazer relatório da Sprint 2;
