@@ -52,7 +52,7 @@ Ele irá capacitar os profissionais do setor logístico com ferramentas adequada
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2024| Concluído| [Ver Relatório](https://www.canva.com/design/DAGTwkmSrWQ/Vd_MzKDfPI1hxUmgiQ1ENA/edit?utm_content=DAGTwkmSrWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
-|00 | 26/09/2024|Concluído| [Ver Relatório](https://www.canva.com/design/DAGRTo-AZMQ/UFMK4Cg80VVrvz1eDNBQFQ/edit?utm_content=DAGRTo-AZMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+|00 | 26/09/2024|Concluído| [Ver Relatório](https://www.canva.com/design/DAGTw21KZcI/oZbBGUJmV9i032pFr6QJSg/edit?utm_content=DAGTw21KZcI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 |01|  17/10/2024| Em Processo |[Ver Relatório](https://www.canva.com/design/DAGTw8AZOBw/kKmklLfA1bbKsC8Hdaxh4w/edit?utm_content=DAGTw8AZOBw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
 |02| 07/11/2024 | A fazer|[Ver Relatório]() | 
 |03| 28/11/2024 |A fazer |[Ver Relatório]()  | 
