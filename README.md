@@ -88,11 +88,11 @@ Requisitos
 - [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 1 Desenvolvimento do Projeto 
-- [ ] Pesquisa de apoio para fundamentar o projeto;
-- [ ] Atualizar o GitHub de acordo com o feedback do cliente;
-- [ ] Relatório da Sprint 1;
-- [ ] Apresentar dados da planilhas que o grupo está unficando, com base do COMEXSTAT;
-- [ ] Justificar as principais cargas de alto valor agregado;
+- [x] Pesquisa de apoio para fundamentar o projeto;
+- [x] Atualizar o GitHub de acordo com o feedback do cliente;
+- [x] Relatório da Sprint 1;
+- [x] Apresentar dados da planilhas que o grupo está unficando, com base do COMEXSTAT;
+- [x] Justificar as principais cargas de alto valor agregado;
 
 ## Sprint 2 Implementação
 - [ ] Fazer relatório da Sprint 2;
