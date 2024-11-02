@@ -95,10 +95,15 @@ Requisitos
 - [x] Justificar as principais cargas de alto valor agregado;
 
 ## Sprint 2 Implementação
-- [ ] Fazer relatório da Sprint 2;
-- [ ] Análise dos mais adequedos indicadores para demonstrar ao cliente no Dashboard;
-- [ ] Dashboard vizualizado no Power BI com as probabilidades;
-- [ ] GitHub atualizado de acordo com o feedback do cliente;
+- [x] Fazer relatório da Sprint 2;
+- [x] Análise dos mais adequedos indicadores para demonstrar ao cliente no Dashboard;
+- [x] Dashboard vizualizado no Power BI com as probabilidades;
+- [x] Dash 1 - filtrar as planilhas de estado,SH4,distribuição modal,total de movimentação fob e valor agregado;
+- [x] Dash 2 - gráfico delinhas com o total de cargas mês a mês;
+- [x] Demosntartivo das cidades;
+- [x] Filtro das cargas;
+- [x] Demosntrações totais;
+- [x] GitHub atualizado de acordo com o feedback do cliente;
 
 ## Sprint 3 Operacionalização
 - [ ] Finalizar as telas requisitadas no Power BI;
