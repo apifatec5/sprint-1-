@@ -54,8 +54,8 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 06/09/2024| Concluído| [Ver Relatório](https://www.canva.com/design/DAGTwkmSrWQ/Vd_MzKDfPI1hxUmgiQ1ENA/edit?utm_content=DAGTwkmSrWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
 |00 | 26/09/2024|Concluído| [Ver Relatório](https://www.canva.com/design/DAGTw21KZcI/oZbBGUJmV9i032pFr6QJSg/edit?utm_content=DAGTw21KZcI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 |01|  17/10/2024| Concluído |[Ver Relatório](https://www.canva.com/design/DAGTw8AZOBw/kKmklLfA1bbKsC8Hdaxh4w/edit?utm_content=DAGTw8AZOBw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
-|02| 07/11/2024 | Em Processo|[Ver Relatório]() | 
-|03| 28/11/2024 |A fazer |[Ver Relatório]()  | 
+|02| 07/11/2024 | Concluído|[Ver Relatório]() | 
+|03| 28/11/2024 |Em Procxesso |[Ver Relatório]()  | 
 |Feira de Soluções|12/12/2024 |A fazer |[Ver Relatório]() | 
 
 
@@ -106,9 +106,16 @@ Requisitos
 - [x] GitHub atualizado de acordo com o feedback do cliente;
 
 ## Sprint 3 Operacionalização
-- [ ] Finalizar as telas requisitadas no Power BI;
-- [ ] Apresentar os dados do desempenho de SJK e cargas específicas;
-- [ ] Fazer relatório da Sprint 3;
-- [ ] GitHub finalizado com a descrição completa do produto.
+- [x] Finalizar as telas requisitadas no Power BI;
+- [x] Apresentar os dados do desempenho de SJK e cargas específicas;
+- [x] Fazer relatório da Sprint 3;
+- [x] GitHub finalizado com a descrição completa do produto.
+
+# Dashboard no Power Bi
+## Exportação
+![Captura de tela 2024-11-28 074909](https://github.com/user-attachments/assets/ae8d29c9-56d6-4250-8712-545d60a8fb43)
+
+## Importação
+![Captura de tela 2024-11-28 074930](https://github.com/user-attachments/assets/f021b280-85c2-4da7-bcec-e7c1da176b7a)
 
 
