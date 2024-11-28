@@ -116,6 +116,7 @@ Requisitos
 ![Captura de tela 2024-11-28 074909](https://github.com/user-attachments/assets/ae8d29c9-56d6-4250-8712-545d60a8fb43)
 
 ## Importação
-![Captura de tela 2024-11-28 074930](https://github.com/user-attachments/assets/f021b280-85c2-4da7-bcec-e7c1da176b7a)
+![Captura de tela 2024-11-28 080911](https://github.com/user-attachments/assets/6e0285cf-964c-4499-9248-af90b5e23ce8)
+
 
 
