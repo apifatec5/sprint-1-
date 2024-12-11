@@ -21,7 +21,7 @@ A aprendizagem por projeto integrador é um método de ensino no qual visa siste
   
 # Projeto
 # Objetivo
-Desenvolver um dashboard eficaz no Power BI, baseado em dados de importações e exportações, com a finalidade de permitir ao usuário a visualização de cargas com potencial de movimentação no Aeroporto de São José dos Campos (SJK Airport). A criação desse dashboard deverá proporcionar insights claros e detalhados sobre as oportunidades de movimentação de carga, facilitando a análise e a tomada de decisões estratégicas para otimizar o uso do aeroporto.
+Desenvolver um dashboard no Power BI, baseado em dados de importações e exportações, com a finalidade de permitir ao usuário a visualização de cargas com potencial de movimentação no Aeroporto de São José dos Campos (SJK Airport). A criação desse dashboard deverá proporcionar insights claros e detalhados sobre as oportunidades de movimentação de carga, facilitando a análise e a tomada de decisões estratégicas para otimizar o uso do aeroporto.
 
 
 # Porque fazer o projeto
