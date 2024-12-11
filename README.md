@@ -29,7 +29,7 @@ Ao estabelecer relacionamentos entre diferentes conjuntos de dados, é possível
 
 # Resultado esperado
 O dashboard desenvolvido fornecerá uma visão abrangente sobre o modal aéreo de cargas com alto valor agregado. Ele possibilitará uma análise detalhada dos custos, além de uma avaliação mensal dos resultados referentes às movimentações e volumes de carga. A representação geográfica das cargas facilitará a visualização intuitiva das rotas e dos hubs logísticos mais críticos no Brasil.
-Ele irá capacitar os profissionais do setor logístico com ferramentas adequadas para otimizar as operações, reduzir os custos e tomar decisões estratégicas baseadas em dados confiáveis. Utilizando o Power BI, que atuará como uma plataforma analítica, o projeto transformará dados em insights valiosos. Isso permitirá que as partes interessadas naveguem pelo panorama logístico da RM Vale e do Litoral Norte.
+Ele irá capacitar os profissionais do setor logístico com ferramentas adequadas para otimizar as operações, reduzir os custos e tomar decisões estratégicas baseadas em dados confiáveis. Utilizando o Power BI, que atuará como uma plataforma analítica, o projeto transformará dados em insights valiosos. Isso permitirá que as partes interessadas observem o panorama logístico da RM Vale e do Litoral Norte.
 
 
 
